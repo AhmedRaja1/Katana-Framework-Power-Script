@@ -77,7 +77,7 @@ Youtube Guide: https://www.youtube.com/playlist?list=PL6BZilIOZMcy7uG3cRqYMc69kF
 ```
 [![Download katana](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/katanas/files/latest/download)
 
-from <img src="https://www.casur.gov.co/casurinicio-theme/images/diferentes/Esp.png" title="Colombia"> made in <img src="https://developer.ibm.com/predictiveanalytics/wp-content/uploads/sites/48/2015/04/python-icon.png" title="Python"> with <img src="http://cdn0.bodas.com.mx/img/smileys/smiley_heart.png" title="Love"> by <font color="red">Red</font>Toor, if you want Donate <img src="http://www.wbtcb.com/frontend/webroot/gfx/bitcoin-ico.gif" title="Bitcoins"> 1PAq7a9TqkJzEfBZGXGf2YFAU5KBZRccnW
+from <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F32%2FFlag_of_Pakistan.svg%2F2000px-Flag_of_Pakistan.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFlag_of_Pakistan&tbnid=m5Q-79qs0jys6M&vet=12ahUKEwjJ3Ybz0a7pAhUP-hoKHUMwCTAQMygAegUIARCvAg..i&docid=i7n5F6sDxFEc_M&w=2000&h=1333&q=pakistan%20flag&ved=2ahUKEwjJ3Ybz0a7pAhUP-hoKHUMwCTAQMygAegUIARCvAg" title="Pakistan"> made in <img src="https://developer.ibm.com/predictiveanalytics/wp-content/uploads/sites/48/2015/04/python-icon.png" title="Python"> with <img src="http://cdn0.bodas.com.mx/img/smileys/smiley_heart.png" title="Love"> by <font color="red">Contibuted by Raja</font>Ahmed , if you want Donate <img src="http://www.wbtcb.com/frontend/webroot/gfx/bitcoin-ico.gif" title="Bitcoins"> 1PAq7a9TqkJzEfBZGXGf2YFAU5KBZRccnW
 
 © 2015-2017
 
