@@ -3,6 +3,8 @@
 ![Gitter chat](https://badges.gitter.im/totaljs/framework.png) ![Supported OS](https://img.shields.io/badge/Supported%20OS-Linux-yellow.svg) 
 ![License](https://img.shields.io/badge/license-GPLv3-blue.svg) ![CORE](https://img.shields.io/badge/core-1.0.0.1-green.svg) ![Build](https://img.shields.io/badge/BUILD-0069-red.svg) ![Modules](https://img.shields.io/badge/modules-37-green.svg) ![Python](https://img.shields.io/badge/Python-2.7-green.svg) [![Build Status](https://travis-ci.org/PowerScript/KatanaFramework.svg?branch=master)](https://travis-ci.org/PowerScript/KatanaFramework)
 ---
+<h1>#Files and Folders</h1> <img src = "https://github.com/AhmedRaja1/Katana-Framework-Power-Script-/blob/master/Katana%20framework%20files%20and%20folders%20Info.PNG" </img>
+
 # ABOUT.
 
 Katana is a framework
