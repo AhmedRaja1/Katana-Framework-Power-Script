@@ -60,6 +60,9 @@ sudo python install
  *INTERNAL FUNCTIONS* Run internal functions from console,
  *GUI* Graphical User interface,
  *SETTINGS* Enable and disable features easily.
+ 
+ # CODE FOR GOOD
+ <img src = "https://github.com/AhmedRaja1/Katana-Framework-Power-Script-/blob/master/code-for-good.png">
   
 # USAGE
 Please go to the [Wiki](https://github.com/PowerScript/KatanaFramework/wiki/How-to-use).
