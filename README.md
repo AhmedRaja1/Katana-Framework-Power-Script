@@ -7,7 +7,7 @@
 # COVER:
 <img src = "https://github.com/AhmedRaja1/Katana-Framework-Power-Script-/blob/master/katana.png">
 
-# ABOUT.
+# ABOUT
 Katana is a framework
 written in python
 for penetration testing
